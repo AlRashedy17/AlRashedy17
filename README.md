@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**AlRashedy17/AlRashedy17** 
-
 Here are some ideas to get you started:
  # Hi there 👋 I'm **Mahmoud Rashedy** 
 
