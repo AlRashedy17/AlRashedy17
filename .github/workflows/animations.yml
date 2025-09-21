@@ -1,0 +1,40 @@
+name: Profile Animations
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:     
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AlRashedy17   
+          outputs: dist/snake.svg
+
+      - name: Commit Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update snake"
+          add: "dist/snake.svg"
+
+  gameoflife:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Run Game of Life
+        uses: yoshi389111/github-game-of-life@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: AlRashedy17 
+          output_path: dist/gameoflife.svg
+
+      - name: Commit Game of Life
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update Game of Life"
+          add: "dist/gameoflife.svg"
