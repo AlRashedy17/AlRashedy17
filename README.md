@@ -5,7 +5,7 @@ Here are some ideas to get you started:
  # Hi there 👋 I'm **Mahmoud Rashedy** 
  <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8B00FF&center=true&vCenter=true&width=435&lines=I'm+Front+End+Developer&repeat=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=#00FFFF&center=true&vCenter=true&width=435&lines=FrontEnd+Developer&repeat=true" alt="Typing SVG" />
   </a>
 </p>
 <br>
