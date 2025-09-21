@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-Here are some ideas to get you started:
+ 
  <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Iam+Mahmoud+Rashedy&repeat=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=I'm+Mahmoud+Rashedy&repeat=true" alt="Typing SVG" />
   </a>
 </p>
 
