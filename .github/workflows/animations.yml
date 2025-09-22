@@ -1,41 +1,24 @@
-name: Profile Animations
+name: Generate Snake Animation
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: "0 0 * * *" # كل يوم مرة
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AlRashedy17
           outputs: dist/snake.svg
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  gameoflife:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
-
-      - name: Run Game of Life
-        uses: yoshi389111/github-game-of-life@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: AlRashedy17
-          output_path: dist/gameoflife.svg
-
-      - name: Push Game of Life to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
