@@ -1,4 +1,7 @@
- <h2 align="left">Hi there 👋</h2>
+ <h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="waving" width="40" />
+</h1>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
