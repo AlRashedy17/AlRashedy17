@@ -12,7 +12,8 @@
   </a>
 </h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Anime Coding">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">   <img src="https://media.giphy.com/media/Y3WAMUJOmpJGzUmv0J/giphy.gif" width="400" alt="Football Player GIF">
+
 
 
  
