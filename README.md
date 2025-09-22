@@ -12,7 +12,7 @@
   </a>
 </h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Coding GIF"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTU5b3g1OHI1ejEwamd6YjJzdzYzMWE2ZGZ3dHNnZm12M254b2NwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="400" height="300" alt="Programmer GIF">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTU5b3g1OHI1ejEwamd6YjJzdzYzMWE2ZGZ3dHNnZm12M254b2NwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="500" height="300" alt="Programmer GIF">
 
 
 
