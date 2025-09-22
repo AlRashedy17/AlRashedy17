@@ -12,8 +12,7 @@
   </a>
 </h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTU5b3g1OHI1ejEwamd6YjJzdzYzMWE2ZGZ3dHNnZm12M254b2NwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="500" height="300" alt="Programmer GIF">
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhbXFjZGd2em0zdmw2OWxzc3FkdDB0emh1cDFyeW5kMzBvcDFqZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Omno9WsTyd5yYsiwdn/giphy.gif" width="400" alt="GIF Programmer">
 
 
 
@@ -33,14 +32,14 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-alrashedy-29a8442a7/)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mahmoud.rashedy.528982)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahmoud_rashedy17/)  
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Languages & Libraries:
  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
