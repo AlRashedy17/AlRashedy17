@@ -2,29 +2,23 @@
 
 
  
- <p align="center">
+ <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=I'm+Mahmoud+Rashedy&repeat=true" alt="Typing SVG" />
   </a>
-</p>
+</h1>
 
-<p align="center">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=FrontEnd+Developer&repeat=true" alt="Typing SVG" />
   </a>
-</p>
+</h2>
 <br><br>
-
 ### 🐍 Snake Game
 <p align="center">
-  <img src="https://github.com/AlRashedy17/AlRashedy17/blob/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AlRashedy17/AlRashedy17/output/dist/snake.svg" alt="Snake animation" />
 </p>
-
-### 🟩 Game of Life
-<p align="center">
-  <img src="https://github.com/AlRashedy17/AlRashedy17/blob/output/dist/gameoflife.svg" alt="Game of Life animation" />
-</p>
-
+ 
 ## 👨‍💻 About Me:
 - 🔭 I’m currently Student @SVNU
 - 🌱 I’m currently learning **React** @*Route*   
