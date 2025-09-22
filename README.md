@@ -1,23 +1,17 @@
 ## Hi there 👋
-
-
  
  <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=I'm+Mahmoud+Rashedy&repeat=true" alt="Typing SVG" />
   </a>
 </h1>
-
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=FrontEnd+Developer&repeat=true" alt="Typing SVG" />
   </a>
 </h2>
-<br><br>
-### 🐍 Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlRashedy17/AlRashedy17/output/dist/snake.svg" alt="Snake animation" />
-</p>
+
+ 
  
 ## 👨‍💻 About Me:
 - 🔭 I’m currently Student @SVNU
