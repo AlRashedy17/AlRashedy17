@@ -1,20 +1,7 @@
  <h1 align="center">
-  Hi there
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 36 36">
-    <text x="0" y="32" font-size="32">👋</text>
-    <animateTransform attributeName="transform"
-      attributeType="XML"
-      type="rotate"
-      from="0 18 18"
-      to="20 18 18"
-      dur="0.5s"
-      begin="0s"
-      repeatCount="indefinite"
-      additive="sum"
-      values="0 18 18; 20 18 18; -10 18 18; 20 18 18; -5 18 18; 0 18 18" 
-      keyTimes="0;0.2;0.4;0.6;0.8;1"/>
-  </svg>
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
+
 
 
 
